@@ -1,3 +1,4 @@
+![logo](https://github.com/prashantsingh15/prashantsingh15/blob/main/Computer%20Science%20Engineer%20(1).png)
 <h1 align="center">Hi 👋, I'm Prashant Singh</h1>
 <h3 align="center">A passionate Data Science Student from India</h3>
 
